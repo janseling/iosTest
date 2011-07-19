@@ -24,16 +24,16 @@
 		2CDB3A0013D5943D0089FEB8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		2CDB3A0213D5943D0089FEB8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		2CDB3A0413D5943D0089FEB8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		2CDB3A0813D5943D0089FEB8 /* testtest-Info.plist */ = {isa = PBXFileReference; path = "testtest-Info.plist"; sourceTree = "<group>"; };
+		2CDB3A0813D5943D0089FEB8 /* testtest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "testtest-Info.plist"; sourceTree = "<group>"; };
 		2CDB3A0A13D5943D0089FEB8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		2CDB3A0C13D5943D0089FEB8 /* testtest-Prefix.pch */ = {isa = PBXFileReference; path = "testtest-Prefix.pch"; sourceTree = "<group>"; };
+		2CDB3A0C13D5943D0089FEB8 /* testtest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "testtest-Prefix.pch"; sourceTree = "<group>"; };
 		2CDB3A0D13D5943D0089FEB8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		2CDB3A0F13D5943D0089FEB8 /* testtestAppDelegate.h */ = {isa = PBXFileReference; path = testtestAppDelegate.h; sourceTree = "<group>"; };
+		2CDB3A0F13D5943D0089FEB8 /* testtestAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = testtestAppDelegate.h; sourceTree = "<group>"; };
 		2CDB3A1013D5943D0089FEB8 /* testtestAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testtestAppDelegate.m; sourceTree = "<group>"; };
-		2CDB3A1313D5943D0089FEB8 /* testtestAppDelegate_iPhone.h */ = {isa = PBXFileReference; name = testtestAppDelegate_iPhone.h; path = iPhone/testtestAppDelegate_iPhone.h; sourceTree = "<group>"; };
+		2CDB3A1313D5943D0089FEB8 /* testtestAppDelegate_iPhone.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = testtestAppDelegate_iPhone.h; path = iPhone/testtestAppDelegate_iPhone.h; sourceTree = "<group>"; };
 		2CDB3A1413D5943D0089FEB8 /* testtestAppDelegate_iPhone.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = testtestAppDelegate_iPhone.m; path = iPhone/testtestAppDelegate_iPhone.m; sourceTree = "<group>"; };
 		2CDB3A1713D5943E0089FEB8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = iPhone/en.lproj/MainWindow_iPhone.xib; sourceTree = "<group>"; };
-		2CDB3A1A13D5943E0089FEB8 /* testtestAppDelegate_iPad.h */ = {isa = PBXFileReference; name = testtestAppDelegate_iPad.h; path = iPad/testtestAppDelegate_iPad.h; sourceTree = "<group>"; };
+		2CDB3A1A13D5943E0089FEB8 /* testtestAppDelegate_iPad.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = testtestAppDelegate_iPad.h; path = iPad/testtestAppDelegate_iPad.h; sourceTree = "<group>"; };
 		2CDB3A1B13D5943E0089FEB8 /* testtestAppDelegate_iPad.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = testtestAppDelegate_iPad.m; path = iPad/testtestAppDelegate_iPad.m; sourceTree = "<group>"; };
 		2CDB3A1E13D5943E0089FEB8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = iPad/en.lproj/MainWindow_iPad.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
