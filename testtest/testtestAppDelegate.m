@@ -16,6 +16,8 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    NSLog(@"12345678");
+    NSLog(@"90389287hfjkdhkjd");
     NSLog(@"abcd");
     [self.window makeKeyAndVisible];
     return YES;
